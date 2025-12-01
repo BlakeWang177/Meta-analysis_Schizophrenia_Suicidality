@@ -24,6 +24,7 @@ This repository presents a cleaned subset of the workflow and code used to gener
 
 ## 📂 Repository Structure
 
+```
 Meta-analysis_Schizophrenia_Suicidality/
 │
 ├── data/
@@ -39,6 +40,7 @@ Meta-analysis_Schizophrenia_Suicidality/
 │   └── prisma_flowchart/                          # PRISMA diagram (screening workflow)
 │
 └── README.md
+```
 
 ---
 
