@@ -27,16 +27,16 @@ This repository presents a cleaned subset of the workflow and code used to gener
 Meta-analysis_Schizophrenia_Suicidality/
 │
 ├── data/
-│ ├── systematic_review_extraction_sheet.xlsx # Extracted effect sizes for included studies
-│ ├── example_input.csv # Demo dataset used for running template code
+│   ├── systematic_review_extraction_sheet.xlsx    # Extracted effect sizes for included studies
+│   └── example_input.csv                          # Demo dataset used for running the template code
 │
 ├── code/
-│ └── meta_suicide_forestplot_code.R # Reproducible forest plot + meta-analysis script
+│   └── meta_suicide_forestplot_code.R             # Reproducible forest plot + meta-analysis script
 │
 ├── outputs/
-│ ├── forest_plots/ # Exported forest plots for each risk factor category
-│ ├── summaries/ # Model summaries (tau^2, I^2, pooled HR/OR)
-│ └── prisma_flowchart/ # PRISMA diagram (screening workflow)
+│   ├── forest_plots/                              # Exported forest plots for each risk factor category
+│   ├── summaries/                                 # Model summaries (tau^2, I^2, pooled HR/OR)
+│   └── prisma_flowchart/                          # PRISMA diagram (screening workflow)
 │
 └── README.md
 
@@ -118,6 +118,7 @@ To reproduce the forest plot pipeline, run:
 
 ```r
 source("code/meta_suicide_forestplot_code.R")
+```
 
 The script:
 
