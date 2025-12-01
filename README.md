@@ -136,9 +136,9 @@ The script:
 Jiawei (Blake) Wang
 Undergraduate Research Assistant
 Vanderbilt University Medical Center — Department of Biostatistics
-Email: jiawei.wang.1@vanderbilt.edu
 
-GitHub: github.com/BlakeWang177
+Email: jiawei.wang.1@vanderbilt.edu;
+GitHub: github.com/BlakeWang177;
 LinkedIn: linkedin.com/in/jw147
 
 This work forms part of an ongoing manuscript in preparation:
